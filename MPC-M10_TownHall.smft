@@ -1,0 +1,6 @@
+<Device Model="MPC-M10">
+   <Network Type="Cresnet" Id="06">
+      <Device Model="C2N-VEQ4" DeviceId="12" Name="C2N-VEQ4 (2 Series)"/>
+   </Network>
+   <Network Type="Ethernet" Id="07"/>
+</Device>
